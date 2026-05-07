@@ -8,3 +8,4 @@ The indoor AMR market is a high-velocity play, scaling to $81 billion by 2031 wi
 # TODO
 - Long-term plan for building a prototype
 - Registering for *SSS*
+- Marketing strategy across RaaS
